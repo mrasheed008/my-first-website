@@ -2,10 +2,10 @@
 
 Welcome Everybody!
 
->*In section 2, I learnt the following:*
+>*So far I have learnt:*
 
 1. **Issue *commands* to the computer**
-2. **Version code***
+2. **Version code**
 3. **Revert to older versions of code**
 4. **Backup code**
 5. **Deploy code**
