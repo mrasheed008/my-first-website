@@ -12,6 +12,6 @@ Welcome Everybody!
 6. **Git**
 7. **GitHub**
 
-> *The rationale behind this was to learn how to use Git   Github to backup code, track changes and share*
+> *The rationale behind this project was to learn how to use Git and  Github to backup code, track changes and share*
 
 [Please check out my first website by clicking on this link]( https://mrasheed008.github.io/my-first-website/)
